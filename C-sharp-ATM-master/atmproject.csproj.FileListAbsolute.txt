@@ -1,0 +1,20 @@
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csprojAssemblyReference.cache
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csproj.GenerateResource.cache
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csproj.CoreCompileInputs.cache
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+U:\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ATM.resources
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csprojAssemblyReference.cache
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ATM.resources
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csproj.GenerateResource.cache
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\atmproject.csproj.CoreCompileInputs.cache
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jodie\Documents\#UNI\Computer systems\atmV3\atm project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
